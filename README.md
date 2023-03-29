@@ -30,7 +30,7 @@ We also attached example code of loading the dataset as file, load_blender.py
 
 Followings are NeRF-based 3D Rendering Results with our processor, MetaVRain.
 
-|3D Model|V100 PSNR|MetaVRain PSNR|V100 SSIM|MetaVRain SSIM|
-|------|------|------|------|------|
-|deathwing|33.73|35.72|0.977|0.982|
-|gundam2|33.73|35.72|0.977|0.982|
+|#|3D Model|V100 PSNR|MetaVRain PSNR|V100 SSIM|MetaVRain SSIM|
+|--|------|------|------|------|------|
+|1|deathwing|33.73|35.72|0.977|0.982|
+|2|gundam2|33.73|35.72|0.977|0.982|
