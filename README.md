@@ -31,9 +31,9 @@ The dataset consists of 14 models as follows: (This gif file is obtained by usin
 11) sonic
 <img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/sonic.gif"/>
 12) spaceship
-<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/spaceship.gif"/>
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/jet.gif"/>
 13) squid_game_doll
-<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/squid_game_doll.gif"/>
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/squid.gif"/>
 14) zealot
 <img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/zealot.gif"/>
 
