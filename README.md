@@ -9,6 +9,7 @@ The only difference is that it includes 3D models obtained from famous movie or 
 
 The dataset consists of 14 models as follows: 
 1) deathwing
+<img width="50%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/deathwing.gif"/>
 2) gundam2
 3) hooh
 4) ironman
