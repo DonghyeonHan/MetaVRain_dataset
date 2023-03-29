@@ -11,7 +11,7 @@ The dataset consists of 14 models as follows: (This gif file is obtained by usin
 1) deathwing
 <img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/deathwing.gif"/>
 2) gundam2
-<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/gundam2.gif"/>
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/gundam.gif"/>
 3) hooh
 <img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/hooh.gif"/>
 4) ironman
