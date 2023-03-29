@@ -46,3 +46,5 @@ Followings are NeRF-based 3D Rendering Results with our processor, MetaVRain.
 |12|spaceship|-|-|34.88|0.984|
 |13|squid_game_doll|36.40|41.01|0.991|0.996|
 |14|zealot|28.78|30.14|0.952|0.961|
+
+You can see the related demonstration video (MetaVRain, ISSCC'23) as YouTube: https://youtu.be/m-aqnZhALv0
