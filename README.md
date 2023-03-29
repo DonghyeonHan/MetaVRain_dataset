@@ -7,22 +7,35 @@ This dataset is made by using blender software and the dataset seems similar wit
 
 The only difference is that it includes 3D models obtained from famous movie or animation.
 
-The dataset consists of 14 models as follows: 
+The dataset consists of 14 models as follows: (This gif file is obtained by using MetaVRain)
 1) deathwing
-<img width="50%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/deathwing.gif"/>
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/deathwing.gif"/>
 2) gundam2
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/gundam2.gif"/>
 3) hooh
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/hooh.gif"/>
 4) ironman
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/ironman.gif"/>
 5) lapras
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/lapras.gif"/>
 6) lucario
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/lucario.gif"/>
 7) mario
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/mario.gif"/>
 8) mewtwo
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/mewtwo.gif"/>
 9) pikachu
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/pikachu.gif"/>
 10) ponyta
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/ponyta.gif"/>
 11) sonic
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/sonic.gif"/>
 12) spaceship
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/spaceship.gif"/>
 13) squid_game_doll
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/squid_game_doll.gif"/>
 14) zealot
+<img width="25%" src="https://github.com/DonghyeonHan/MetaVRain_dataset/blob/main/rendering%20example/zealot.gif"/>
 
 The dataset can be used with simple code which is provided by the other general NeRF related software
 such as https://github.com/creiser/kilonerf.
