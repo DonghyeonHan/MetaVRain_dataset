@@ -26,4 +26,11 @@ The dataset consists of 14 models as follows:
 The dataset can be used with simple code which is provided by the other general NeRF related software
 such as https://github.com/creiser/kilonerf.
 
-We also attached example code of loading the dataset as file, load_blender.py .
+We also attached example code of loading the dataset as file, load_blender.py 
+
+Followings are NeRF-based 3D Rendering Results with our processor, MetaVRain.
+
+|3D Model|V100 PSNR|MetaVRain PSNR|V100 SSIM|MetaVRain SSIM|
+|------|------|------|------|------|
+|deathwing|33.73|35.72|0.977|0.982|
+|gundam2|33.73|35.72|0.977|0.982|
