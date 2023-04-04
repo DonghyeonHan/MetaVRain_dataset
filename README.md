@@ -40,7 +40,7 @@ The dataset consists of 14 models as follows: (This gif file is obtained by usin
 The dataset can be used with simple code which is provided by the other general NeRF related software
 such as https://github.com/creiser/kilonerf.
 
-We also attached example code of loading the dataset as file, load_blender.py 
+We also attached example code for loading the dataset. Please refer 'load_blender.py' 
 
 Followings are NeRF-based 3D Rendering results obtained by using our processor, MetaVRain.
 
@@ -59,6 +59,6 @@ Followings are NeRF-based 3D Rendering results obtained by using our processor, 
 |11|sonic|39.11|38.10|0.990|0.990|
 |12|spaceship|34.88|34.76|0.984|0.984|
 |13|squid_game_doll|41.01|39.61|0.996|0.995|
-|14|zealot|30.14|29.83|0.961|0.96|
+|14|zealot|30.14|29.83|0.961|0.960|
 
 You can see the related demonstration video (MetaVRain, ISSCC'23) from YouTube: https://youtu.be/m-aqnZhALv0
